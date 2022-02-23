@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=1337816495)
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=1337816495&color=5c5c5c)
 
 <!--
 **1337816495/1337816495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
