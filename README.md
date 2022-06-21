@@ -1,1 +1,1 @@
-[![jynxio](jynxio-uncompressed.png)](https://www.jynxio.com)
+[![jynxio](jynxio.png)](https://www.jynxio.com)
