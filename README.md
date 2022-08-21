@@ -1,2 +1,3 @@
-### <p align="center">My blog is more fun than my github 👇</p>
-### <p align="center">www.jynxio.com</p>
+<p align="center">
+    <a href="https://www.jynxio.com">www.jynxio.com</a>
+</p>
