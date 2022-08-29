@@ -4,4 +4,4 @@
     </a>
 </p>
 
-<p align="center">( click on it to visit my blog )</p>
+<p align="center">( click on it )</p>
