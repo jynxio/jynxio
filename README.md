@@ -26,6 +26,8 @@
         .
         <a href="https://github.com/jynxio/fluid-calculator">fluid-calculator</a>
         .
+        <a href="https://github.com/jynxio/color-picker">color-picker</a>
+        .
         <a href="https://github.com/jynxio/dance">dance</a>
         .
         <a href="https://github.com/jynxio/perspective-loading">perspective-loading</a>
