@@ -1,1 +1,7 @@
-<h3 align="center"><samp>www.jynxio.com</samp></h3>
+<p align="center">
+  <samp>
+    /* Blog: jynxio.com */
+    <br />
+    /* Email: me@jynxio.com */
+  </samp>
+</p>
