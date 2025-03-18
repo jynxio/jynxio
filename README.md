@@ -1,5 +1,1 @@
-<p align="center">
-  <samp>
-    Blog: www.jynxio.com | Email: me@jynxio.com
-  </samp>
-</p>
+<p align="center"><samp>"I am idle and aimless here."</samp></p>
