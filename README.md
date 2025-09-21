@@ -1,1 +1,1 @@
-<p align="center"><samp>"I am idle and aimless here."</samp></p>
+<p align="center"><samp>Frontend Developer, coding and blogging</samp></p>
